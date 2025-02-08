@@ -92,8 +92,7 @@ h3 {
     width: 50vh;                  
     height: 40vh;
     gap: 2px;                   
-    border: 2px solid black;
-    object-fit: cover;
+    border: 2px solid black;    object-fit: cover;
 }
 
 .img img {
